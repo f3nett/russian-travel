@@ -9,7 +9,6 @@
 @import url(../blocks/lang-list/__item/lang-list__item.css);
 @import url(../blocks/lang-list/__link/lang-list__link.css);
 @import url(../blocks/lang-list/_position/lang-list_position-header.css);
-@import url(../blocks/link/_decoration/link_decoration_underline.css);
 
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_position/logo_position_header.css);
@@ -52,3 +51,5 @@
 @import url(../blocks/footer/__links-item/footer__links-item.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+
+@import url(../blocks/underline/underline.css);
