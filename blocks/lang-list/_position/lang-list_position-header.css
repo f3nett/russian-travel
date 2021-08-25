@@ -1,0 +1,9 @@
+.lang-list_position_header {
+  margin: 30px 0 0;
+}
+
+@media (min-width: 768px) {
+  .lang-list_position_header {
+    margin-top: 46px;
+  }
+}
