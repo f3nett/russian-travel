@@ -1,5 +1,6 @@
 .cover__link {
   background-image: url(../../../images/cover-trains.jpg);
+  background-position: center;
   display: block;
   text-decoration: none;
   background-size: cover;
